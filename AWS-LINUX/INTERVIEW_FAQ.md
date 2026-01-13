@@ -33,7 +33,9 @@ du -sh filename
 
 #### 6. How can you search for a word in Linux?
 grep 'word' filename
-To search recursively in all files: grep -r 'word' /path/to/directory
+To search recursively in all files: 
+
+grep -r 'word' /path/to/directory
 
 #### 7. How do you troubleshoot if an application is running slow on Linux?
 
